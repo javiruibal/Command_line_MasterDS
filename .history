@@ -1,0 +1,191 @@
+ls
+eco $SHELL
+eco$SHELL
+echo $SHELL
+directory: eco/usr/bin/zsh\
+[dsc@vm:~] [base] 127 % echo $SHELL   directory: eco/usr/bin/zsh                                                                                                  20:37:58\
+[dsc@vm:~] [base] 127 % echo $SHELL  \
+ directory: eco/usr/bin/zsh                                                                                                  20:37:58\
+[dsc@vm:~] [base] 127 % echo $SHELL  \
+ directory: eco/usr/bin/zsh                                                                                                  20:37:58\
+[dsc@vm:~] [base] 127 % echo $SHELL  \
+
+echo$TERM
+WHAMI
+whoami
+echo $TERM
+echo $USER
+echo 'USER'
+echo "USER"
+date
+echo "hoy es el dia `date`"
+hoy es el día $(date)"\
+\
+hoy es el día $(date)"
+echo "hoy es el día $(date)"
+echo "en este directorio encuentro o siguiente: %(ls)"
+echo "en este directorio encuentro o siguiente: $(ls)"
+echo "\n"
+echo "a\nb"
+echo "a\tb"
+echo holi; date; echo adios
+ls
+cd
+ls
+cd Data/ shell
+ls
+cd Data/shell
+ls
+cat Text_example.txt
+cat -n Text_example.txt Text_example.txt Text_example.txt
+cat Text_example.txt Text_example.txt Text_example.txt
+pwd
+cd ~
+pwd
+cd Data/shell
+cd ../
+cd ../../
+ls
+pdw
+pwd
+cd ~
+ls
+pwd
+cd /home/dsc/Data/shell
+cd ~
+ls -a
+-l
+ls -l
+ls -s
+ls -1
+chmod 644 videos
+chmod 644 Videos
+ls -l
+chmod 775 Videos
+ls l
+ls-l
+ls -l
+ls
+cd Videos
+ls
+mkdir nuevofolder
+ls
+touch nuevoarchivo
+ls
+mkdir -p level1/level2/level3
+rmdir level1
+cp nuevoarchivo ~
+clear
+git
+cd ..
+gir
+git
+git clone https://github.com/IgorAramb/DS_CL_files.git
+ls
+cd DS_CL_files
+ls
+	man ls
+ls --help
+gitconfig global user.name 'Javi Ruibal'
+gitconfig global user.email 'javiruibalf@gmail.com'
+gitconfig global user.name "Javi Ruibal"
+gitconfig global user.email "javiruibalf@gmail.com"
+git config global user.name "Javi Ruibal"
+git config global user.email "javiruibalf@gmail.com"
+git config --global user.name "Javi Ruibal"
+git config --global user.email "javiruibalf@gmail.com"
+cd ~
+git clone https://github.com/javiruibal/Master_kschool.git
+ls
+cd Master_kschool
+ls
+cat README.md
+touch nuevoarchivo
+touch modelomlparaconquistarelmundo
+rm README.md
+git status
+git add modelomlmagicodelcopon
+git status
+git commit -m 'Implement a random forest'
+git push
+git status
+git log
+git 
+clear
+git config --global user.name "Javier Ruibal"
+git config --global user.email "javiruibalf@gmail.com"
+cat.gitconfig
+cat .gitconfig
+gedit .config/
+gedit .config
+gedit .gitconfig
+cat .gitconfig
+gedit .gitconfig
+mkdir Repos
+cd Repos
+git clone https://github.com/javiruibal/Master_kschool.Master_class2.git
+git clone https://github.com/javiruibal/Master_kschool.git
+ls
+pwd
+git clone https://github.com/javiruibal/Master_kschool.git ../Pictures/nombre_repo_2
+ls ../Pictures
+ls
+git init Master_class_local_start
+ll
+git init Master_class2
+ll
+cd Master_class_local_start
+git status
+ls -a 
+touch first_file.txt
+ll
+touch second_file
+ll
+gedit first_file.txt
+git add first_file.txt
+git status
+git add second_file
+git status
+git commit -m "first commit"
+git status
+git log
+gedit first_file.txt
+git status
+git add -u
+git status
+git commit
+git log
+git remote -v
+git remote add origin https://github.com/javiruibal/Local_init.git
+git remote -v
+git branch -M master
+git push -u origin master
+cd
+cat .history
+ls
+cd Repos
+ls
+git clone https://github.com/javiruibal/Command_line_MasterDS.git
+cd Command_line_MasterDS
+cp ~/.history
+ls
+ll
+gedit README.md
+gid add.history
+git add.history
+git add .history
+gedit README.md
+git add .history
+ls -a
+git commit -m "first 5h of master"
+gedit .history
+ls
+git commit -m "first 5h of master"
+gedit History
+git reset --hard
+ls
+ls -a
+git push
+cd ..
+cd 
+cp .history Repos/Command_line_MasterDS
