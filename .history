@@ -189,3 +189,88 @@ git push
 cd ..
 cd 
 cp .history Repos/Command_line_MasterDS
+cd Repos/Command_line_MasterDS
+ls -a
+git add .history
+git push
+git commit -m "first 5h of master"
+git push
+cp ~/.history Hisory
+git commit -m "Date test $(date)"
+cd 
+ls
+mdkir first_dir
+ls
+mkdir first_dir
+ls
+touch text_file.txt
+ls
+cd first_dir
+ls
+touch text_file.txt
+ls
+cd..
+cd ../
+rm text_file.txt
+ls
+cd first_dir
+ls
+chmod 775 text_file.txt
+mkdir -p sub1/sub2/text_file
+ls
+mv sub2 first_dir
+cp text_file.txt first_dir/sub1
+ls
+cp text_file.txt sub1
+ls
+gedit text_file.txt
+ls
+cp text_file.txt sub1
+cd sub1
+ls
+xd ..
+cd ..
+move text_file.txt sub2 
+mv text_file.txt
+mv text_file.txt sub2
+ls
+cd sub2
+cd sub1
+ls
+cd sub2
+ls
+mv text_file text_file.txt.2
+ls
+cd ..
+cp sub1 sub3
+cd..
+ls
+cd ..
+ls
+mkdir first_dir_correction
+touch text_file.txt
+chmod g+x,o+x text_file.txt
+mkdir sub1 sub2 text_file
+ls
+mv sub1 first_dir_correction
+mv sub2 first_dir_correction/
+ls
+mv first file.txt first_dir_correction
+mv text_file first_dir_correction
+mv text_file.txt first_dir_correction
+cd first_dir_correction
+ll
+cp text_file.txt sub1
+mv text_file.txt sub2/text_file.txt.2
+ls
+ls sub2
+cp -r sub1 sub3
+ls sub3
+mv sub2/text_file.txt.2 sub2/text_file.txt.backup
+mv sub2/text_file.txt.backup ./.text_file.txt.backup
+rm -r sub2
+ll
+cd
+cd Repos/Command_line_MasterDS
+cp ~/.history
+cp ~/.history .
